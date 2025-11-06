@@ -1,3 +1,4 @@
 *.env
 promptfooconfig2.yaml
 .DS_Store
+__pycache__
